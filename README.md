@@ -34,7 +34,7 @@ The project supports `Hadoop-2` and `Hadoop-3` , including the following shaded 
 ##  Build Shaded Hadoop JAR
 
 ```bash
-git clone https://github.com/Al-assad/flink-shaded-hadoop.git
+git clone https://github.com/zhouchitc/flink-shaded-hadoop.git
 cd ./flink-shaded-hadoop
 mvn clean install
 ```
